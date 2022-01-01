@@ -41,8 +41,9 @@ Will probably use these when I actually have something impressive
 <a href="https://github.com/katejh/katejh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=katejh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kate's GitHub Stats" />
 </a>
--->
+
 
 <a href="https://github.com/katejh/katejh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katejh&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+-->
