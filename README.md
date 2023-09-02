@@ -6,7 +6,7 @@ Pronouns: she/her
 
 I am currently a Computer Science student at the University of British Columbia (expected graduation May 2024), looking to work in software development.
 
-Visit my [website](https://katejh.github.io/portfolio) or connect with me on [LinkedIn](https://linkedin.com/in/katejh)!
+Connect with me on [LinkedIn](https://linkedin.com/in/katejh)!
 
 ## My top technologies
 
