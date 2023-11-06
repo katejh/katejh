@@ -4,7 +4,7 @@ Name: Kate Huang
 
 Pronouns: she/her
 
-I am currently a Computer Science student at the University of British Columbia (expected graduation May 2024), looking to work in software development.
+I am a Computer Science student at the University of British Columbia (expected graduation May 2024), looking to work in software engineering.
 
 Connect with me on [LinkedIn](https://linkedin.com/in/katejh)!
 
