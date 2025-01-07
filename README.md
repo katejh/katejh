@@ -6,7 +6,7 @@ Pronouns: she/her
 
 Thanks for stopping by my GitHub!
 
-Currently: Software engineer at Stripe
+Currently: Software Engineer @ Stripe
 
 Previously: CS student @ UBC 2024; SWE intern @ Figma, Twitter, Loblaw Digital
 
