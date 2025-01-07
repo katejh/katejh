@@ -4,7 +4,11 @@ Name: Kate Huang
 
 Pronouns: she/her
 
-I am a Computer Science student at the University of British Columbia (expected graduation May 2024), looking to work in software engineering.
+Thanks for stopping by my GitHub!
+
+Currently: Software engineer at Stripe
+
+Previously: CS student @ UBC 2024; SWE intern @ Figma, Twitter, Loblaw Digital
 
 Connect with me on [LinkedIn](https://linkedin.com/in/katejh)!
 
